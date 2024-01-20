@@ -1,0 +1,1 @@
+This project is a clone website of an E-commers website named Amazon. I have used HTML and CSS to build this project. It is a simple website like a prototype of the Amazon E-commers website. Even though we can ot use it but it show the basic design of the Amazon E-commers website. By seeing this website we will know that the Amazon E-commers website looks like this.
