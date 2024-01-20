@@ -1,0 +1,37 @@
+
+p{
+    font-family: 'Borel';
+    text-align:center;
+    margin-bottom:0;
+    margin-top:0;
+}
+.p1{
+    color:orange;
+    font-size:15px;
+}
+.p2{
+    font-weight:bold;
+    font-size: 25px;
+    margin-top:8px;
+}
+.p3{
+    font-weight:bold;
+    font-size:45px;
+}
+.p4{
+    margin-top:8px;
+    margin-bottom: 20px;
+}
+.p5{
+    background-color: rgb(0, 113, 227);
+color: white;
+padding-top: 7px;
+padding-bottom: 7px;
+padding-left: 15px;
+padding-right: 15px;
+border-radius: 30px;
+font-weight: bold;
+cursor: pointer;
+margin-top:20px;
+     
+}
